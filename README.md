@@ -1,6 +1,6 @@
 # mfrc522-AVR
 mfrc522 library port for CodeVisionAVR\
-descriptios are in the library
+descriptions are in the library
 
 ## AVR settings
 
